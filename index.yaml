@@ -1,0 +1,8 @@
+indexes:
+
+- kind: Boats
+  ancestor: no
+  properties:
+  - name: name
+  - name: age
+    direction: desc
